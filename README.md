@@ -6,5 +6,5 @@ how I like to build things
 ## Usage
 
 ```bash
-pnpm create svelte@latest your-app-name -e https://github.com/Psypher1/sk-tailwind-starter
+pnpm create svelte@latest your-app-name -e https://github.com/Psypher1/sveltekit-tailwind-starter
 ```
