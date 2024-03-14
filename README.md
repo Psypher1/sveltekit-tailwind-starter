@@ -3,6 +3,12 @@
 This is my starter for projects I make with SvelteKit and Tailwind. It uses my conventions and
 how I like to build things
 
+## Using
+
+- svelte 4
+- sveltekit 2
+- tailwind 3
+
 ## Usage
 
 ```bash
